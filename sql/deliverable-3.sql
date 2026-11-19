@@ -1,8 +1,5 @@
--- Gilbert Nkurunziza
--- IT 408: Database Design and Development
--- Professor: Jaydeep Vaidya
--- August 25, 2026
--- DB Final Project Deliverable #3
+-- Used Car Dealership Database
+-- Schema and sample data
 
 -- NAMING CONVENTIONS
 -- ------------------

@@ -1,6 +1,6 @@
 # Used Car Dealership Database
 
-A buy-here-pay-here (BHPH) used car dealership database, designed in IT 408: Data Design & Development (Walsh College, Summer 2026).
+A buy-here-pay-here (BHPH) used car dealership database.
 
 ## What it models
 
@@ -23,5 +23,5 @@ Run `sql/deliverable-3.sql` in MySQL to create the database, tables, and sample 
 
 ## Files
 
-- `sql/` — schema and sample data (Deliverable 3)
-- `docs/` — Deliverables 1, 2, and 4 (design documentation and the query reference)
+- `sql/` — schema and sample data
+- `docs/` — design documentation and the query reference
